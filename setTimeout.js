@@ -1,0 +1,3 @@
+//Função setTimeout:
+
+setTimeout()
